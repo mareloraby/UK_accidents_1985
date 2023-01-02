@@ -6,6 +6,6 @@ Original datasets are available at [opendatablend](https://www.opendatablend.io/
 The compiled dataset that we worked on is available at [huggingface](https://huggingface.co/datasets/mareloraby/uk_acc_1985).  This was compiled by Eng. [Badr Tarek](https://github.com/Badr-AL101)
 
 ## Contributers:
-- [Rawan Reda 👩‍💻](github.com/rawanreda)
+- [Rawan Reda 👩‍💻](https://github.com/rawanreda)
 - [Hadeer ElHussein 👩‍💻](https://github.com/Hadeer1111)
 - [Maryam ElOraby 👩‍💻](https://github.com/mareloraby)
